@@ -1,2 +1,3 @@
-### Sample First GCP Sprint Project
-## New One
+### First GCP Sprint Project
+
+- Sample GCP Python Project which is deployed on GKE
